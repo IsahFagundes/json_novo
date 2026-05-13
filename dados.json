@@ -1,0 +1,37 @@
+[
+    {
+     "nome" : "Ana",
+     "idade" : "16",
+     "altura" : "1,65", 
+     "cidade" : "Foz do Iguaçu"
+    },
+
+    {
+     "nome" : "Giovana",
+     "idade" : "15",
+     "altura" : "1,62", 
+     "cidade" : "Foz do Iguaçu"
+    },
+
+    {
+     "nome" : "Keyrisson",
+     "idade" : "17",
+     "altura" : "1,85", 
+     "cidade" : "Foz do Iguaçu"
+    },
+
+    {
+     "nome" : "Felipe",
+     "idade" : "15",
+     "altura" : "1,75", 
+     "cidade" : "Foz do Iguaçu"
+    },
+
+    {
+     "nome" : "Luiz",
+     "idade" : "15",
+     "altura" : "1,75", 
+     "cidade" : "Foz do Iguaçu"
+    }
+]
+
